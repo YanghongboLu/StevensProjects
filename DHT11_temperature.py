@@ -1,5 +1,5 @@
 ## DHT11 gets temperature and humidity data from Raspberry Pi
-import RPI.GPIO as gpio
+import RPi.GPIO as gpio
 import time
 
 port=13 #set pin13 as input pin
